@@ -6,4 +6,4 @@ Based on the data in purchase_data.csv, several conclusions can be drawn from an
 
 2)Players seem to be satisfied with a small number of purchases. Out of 576 total players, only 18 made more than 2 purchases.
 
-3) 83% of the revenue generated from item sales comes from males, and 47% of the revenue comes from the age group 20-24. This is the main target demographic for sales.  
+3)83% of the revenue generated from item sales comes from males, and 47% of the revenue comes from the age group 20-24. This is the main target demographic for sales.  
